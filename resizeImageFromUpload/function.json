@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "photos",
+      "connection": "macscampphotos_STORAGE"
+    }
+  ],
+  "scriptFile": "../dist/resizeImageFromUpload/index.js"
+}

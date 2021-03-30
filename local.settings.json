@@ -1,7 +1,8 @@
 {
-    "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
-    }
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "macscampphotos_STORAGE": "DefaultEndpointsProtocol=https;AccountName=macscampphotos;AccountKey=yJ1c3vYa/nvuQ1JHNjhJj/b9qPh8cJVOj9D5sLY03jfR4SC5MkmadXa9N718QoFr8rS6RBLM+wPbjclx/shcBw==;EndpointSuffix=core.windows.net"
+  }
 }
