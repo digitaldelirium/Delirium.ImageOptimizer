@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Delirium.ImageOptimizer.1424675222.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Delirium.ImageOptimizer.sln" t="IncludeFlat" />
+      <e p="node_modules/@azure/functions" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/bmp" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/core" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/custom" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/gif" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/jpeg" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-blit" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-blur" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-circle" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-color" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-contain" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-cover" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-crop" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-displace" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-dither" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-fisheye" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-flip" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-gaussian" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-invert" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-mask" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-normalize" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-print" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-resize" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-rotate" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-scale" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-shadow" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugin-threshold" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/plugins" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/png" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/tiff" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/types" t="IncludeRecursive" />
+      <e p="node_modules/@jimp/utils" t="IncludeRecursive" />
+      <e p="node_modules/@types" t="IncludeRecursive">
+        <e p="node" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules/base64-js" t="IncludeRecursive" />
+      <e p="node_modules/buffer" t="IncludeRecursive" />
+      <e p="node_modules/ieee754" t="IncludeRecursive" />
+      <e p="node_modules/jimp" t="IncludeRecursive" />
+      <e p="node_modules/jpeg-js" t="IncludeRecursive" />
+      <e p="node_modules/stream" t="IncludeRecursive" />
+      <e p="node_modules/stream-size" t="IncludeRecursive" />
+      <e p="node_modules/timm" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

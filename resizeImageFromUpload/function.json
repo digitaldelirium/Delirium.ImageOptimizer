@@ -1,12 +1,27 @@
 {
-  "bindings": [
-    {
-      "name": "myBlob",
-      "type": "blobTrigger",
-      "direction": "in",
-      "path": "photos",
-      "connection": "macscampphotos_STORAGE"
-    }
-  ],
-  "scriptFile": "../dist/resizeImageFromUpload/index.js"
+    "bindings": [{
+            "name": "myBlob",
+            "type": "blobTrigger",
+            "direction": "in",
+            "path": "photos",
+            "connection": "macscampphotos_STORAGE"
+        },
+        {
+            "name": "myInputImage",
+            "type": "blob",
+            "path": "photos/**/{name}.jpg",
+            "connection": "macscampphotos-STORAGE",
+            "direction": "in",
+            "dataType": "stream"
+        },
+        {
+            "name": "myOutputImage",
+            "type": "blob",
+            "path": "web-optimized/**/{name}.jpg",
+            "connection": "macscampphotos-STORAGE",
+            "direction": "out",
+            "dataType": "stream"
+        }
+    ],
+    "scriptFile": "../dist/resizeImageFromUpload/index.js"
 }
